@@ -1,6 +1,7 @@
 {
   "common": {
-    "commaSeparation": "Одвојено зарезима"
+    "commaSeparation": "Одвојено зарезима",
+    "characters": "карактери"
   },
   "login": {
     "welcomeBack": "Добродошли назад!",
@@ -70,6 +71,14 @@
       "awaitingAproval": "Чекање за дозволу"
     }
   },
+  "theme-editor": {
+    "title": "Уређивач теме",
+    "templateNote": "Можеш да видиш шаблон тему и неке савете у",
+    "themeTextLabel": "Уреди своју CSS тему",
+    "themeTextPlaceholder": "Напиши сопствени CSS...",
+    "themeGuideName": "Приручнику за теме",
+    "updateButton": "Сачувај и примени"
+  },
   "editor": {
     "inReplyTo": "Као одговор на:",
     "quoteButton": "Цитирај woot",
@@ -83,7 +92,10 @@
     "wootQuoteConfirmButton": "Додај woot као цитат",
     "wootTextLabel": "Woot текст",
     "wootTextPlaceholder": "Почни да пишеш...",
+    "bskyLengthWarning": "Text above 300 characters will be cut off and instead a link to wafrn will be shown",
+    "bskyLengthNotice": "This only affects Bluesky, currently only an approximation!",
     "altTextFieldLabel": "Дескрипција слике",
+    "altTextFieldLabelVideo": "Video Description",
     "altTextFieldPlaceholder": "Дескрипција. Молимо да ПОПУНИТЕ ОВО",
     "isNSFWToggle": "Сензитивно",
     "mediaCountMastodonWarning": "ПАЖЊА! ДАЉИ ОТПРЕМЉЕНИ МЕДИЈИ НЕЋЕ БИТИ ПРИКАЗАНИ НА МАСТОДОНУ",
