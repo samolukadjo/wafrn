@@ -22,7 +22,7 @@
     "checkEmailLine2": "Ако имаш икаквих проблема, пиши администратору инстанце, чији е-мејл може бити пронађен <a href=\"/about\">овде</a>"
   },
   "notifications": {
-    "loadingMore": "Учитавају се још нотификација",
+    "loadingMore": "Учитава се још нотификација",
     "refresh": "Освежи"
   },
   "menu": {
@@ -92,10 +92,10 @@
     "wootQuoteConfirmButton": "Додај woot као цитат",
     "wootTextLabel": "Woot текст",
     "wootTextPlaceholder": "Почни да пишеш...",
-    "bskyLengthWarning": "Text above 300 characters will be cut off and instead a link to wafrn will be shown",
-    "bskyLengthNotice": "This only affects Bluesky, currently only an approximation!",
+    "bskyLengthWarning": "Текст дужи од 300 карактера биће одсечен и линк до пуног оригинала на wafrn-у че бити приказан",
+    "bskyLengthNotice": "Ово само утиче на Bluesky, и тренутно је само апроксимација!",
     "altTextFieldLabel": "Дескрипција слике",
-    "altTextFieldLabelVideo": "Video Description",
+    "altTextFieldLabelVideo": "Дескрипција видеа",
     "altTextFieldPlaceholder": "Дескрипција. Молимо да ПОПУНИТЕ ОВО",
     "isNSFWToggle": "Сензитивно",
     "mediaCountMastodonWarning": "ПАЖЊА! ДАЉИ ОТПРЕМЉЕНИ МЕДИЈИ НЕЋЕ БИТИ ПРИКАЗАНИ НА МАСТОДОНУ",
